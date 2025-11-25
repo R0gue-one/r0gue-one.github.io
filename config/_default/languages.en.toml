@@ -1,0 +1,32 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Rogue-One"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "images/swlogo3.png"
+  secondaryLogo = "images/swlogo2.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Harshit Jaiswal"
+  email = "harshitjaiswal2606@gmail.com"
+  image = "aiden.jpeg"
+  imageQuality = 96
+  headline = "All we have to decide is what to do with the time that is given to us."
+  bio = "Somewhere in the universe" # appears in the author box
+  links = [
+    { email = "mailto:harshitjaiswal2606@gmail.com" },
+    { github = "https://github.com/R0gue-one"},
+    { linkedin = "https://www.linkedin.com/in/harshitjaiswal01/" },
+    { pinterest = "https://in.pinterest.com/harshitjaiswal2606/"},
+    # { instagram = "https://instagram.com/username" }
+    
+    
+  ]
